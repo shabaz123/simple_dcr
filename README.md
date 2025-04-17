@@ -6,7 +6,7 @@ The main difference is that the project has been converted to a printed circuit 
 
 # Ordering
 
-To order a PCB, [Click here for the PCB Gerber Zip File](https://github.com/shabaz123/simple_dcr/blob/main/gerber-export-dcr-pcbver-rev1_0.zip) and then upload it to any PCB manufacturer. The board is 2-layer, 160 x 100 mm in size.
+To order a PCB, [Click here for the PCB Gerber Zip File](https://github.com/shabaz123/simple_dcr/raw/main/gerber-export-dcr-pcbver-rev1_0.zip) and then upload it to any PCB manufacturer. The board is 2-layer, 160 x 100 mm in size.
 
 <img width="100%" align="left" src="dcr-render-angle.jpg">
 
@@ -17,7 +17,7 @@ The parts list is in a table further below.
 
 # Circuit Diagram
 
-[Click here for the PDF version](https://github.com/shabaz123/simple_dcr/blob/main/dcr-schematic-rev1_0.pdf)
+[Click here for the PDF version](https://github.com/shabaz123/simple_dcr/raw/main/dcr-schematic-rev1_0.pdf)
 
 <img width="100%" align="left" src="dcr-schematic-rev1_0.png">
 
