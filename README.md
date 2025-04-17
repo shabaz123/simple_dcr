@@ -1,5 +1,8 @@
-# simple_dcr
-Simple Direct Conversion Receiver for 40m (7 MHz) Band
+# Simple Direct Conversion Receiver for 40m (7 MHz) Band
+
+This project is based on https://hackaday.io/project/190327/files
+
+The main difference is that the project has been converted to a printed circuit board layout.
 
 # Ordering
 
