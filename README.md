@@ -8,6 +8,10 @@ Simple Direct Conversion Receiver for 40m (7 MHz) Band
 
 <img width="100%" align="left" src="dcr-schematic-rev1_0.png">
 
+# Board Layout
+
+<img width="100%" align="left" src="board-layout-rev1_0.png">
+
 
 # Parts List
 
