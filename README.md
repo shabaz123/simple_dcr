@@ -96,4 +96,7 @@ TR1,TR2|T50-6|2|Toroid Iron Powder Type 6
 TR3,TR4|FT50-43 Ferrite|2|Toroid Ferrite Type 43
 TR5|Transformer 1k/8R|1|Audio Transformer 1kohm:8ohm
 VR1|1k|1|Potentiometer Log Audio (Type A)
+n/a|Former|1|3D-printed Coil Former for Inductor
+n/a|M6 Bolt|1|M6 75 or 80 mm Screw MUST be BRASS
+n/a|Enamelled Wire|1|Approx 24-26 AWG Enamelled Wire
 
