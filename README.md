@@ -10,6 +10,8 @@ To order a PCB, [Click here for the PCB Gerber Zip File](https://github.com/shab
 
 <img width="100%" align="left" src="dcr-render-angle.jpg">
 
+The 3D-print file for constructing the variable inductor is available from the Hackaday website [(direct link to the file)](https://cdn.hackaday.io/files/1903278142950368/PTO%20Former%20-%20print%20at%20110%20pct.stl).
+
 The parts list is in a table further below.
 
 
