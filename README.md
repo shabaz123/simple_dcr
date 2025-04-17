@@ -4,7 +4,7 @@ Simple Direct Conversion Receiver for 40m (7 MHz) Band
 
 # Circuit Diagram
 
-[Click here for the PDF version](https://github.com/shabaz123/simple_dcr/soldersmoke-dcr-pcbversion_rev1_0.pdf)
+[Click here for the PDF version](https://github.com/shabaz123/simple_dcr/blob/main/dcr-schematic-rev1_0.pdf)
 
 <img width="100%" align="left" src="dcr-schematic-rev1_0.png">
 
