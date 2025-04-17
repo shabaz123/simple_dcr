@@ -16,6 +16,7 @@ Simple Direct Conversion Receiver for 40m (7 MHz) Band
 
 <img width="100%" align="left" src="toroid-diag-rev1.jpg">
 
+
 ## TR1, TR2
 
 ```
