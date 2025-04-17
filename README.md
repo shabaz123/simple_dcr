@@ -20,21 +20,28 @@ Simple Direct Conversion Receiver for 40m (7 MHz) Band
 ## TR1, TR2
 
 T50-6 Iron Powder
+
 Pins 1-2: 26 Turns
+
 Pins 6-4: 5 Turns
-```
 
 ## TR3, TR4:
 
 FT50-43 Ferrite
+
 10 Turns Trifilar
+
 Three Windings: Red, Green, Blue
+
 Pin 4: Red end A
+
 Pin 6: Red end B
+
 Pin 1: Green end A
+
 Pin 3: Blue end B
-Pin 2: Remaining ends:
-(Green end B, Blue end A)
+
+Pin 2: Remaining ends (Green end B, Blue end A)
 
 # Parts List
 
