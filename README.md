@@ -14,12 +14,11 @@ Simple Direct Conversion Receiver for 40m (7 MHz) Band
 
 # Toroid Detail
 
-<img width="100%" align="left" src="toroid-diag-rev1.jpg">
+<img width="100%" align="left" src="toroid-diag-rev2.jpg">
 
 
 ## TR1, TR2
 
-```
 T50-6 Iron Powder
 Pins 1-2: 26 Turns
 Pins 6-4: 5 Turns
@@ -27,7 +26,6 @@ Pins 6-4: 5 Turns
 
 ## TR3, TR4:
 
-```
 FT50-43 Ferrite
 10 Turns Trifilar
 Three Windings: Red, Green, Blue
@@ -37,7 +35,6 @@ Pin 1: Green end A
 Pin 3: Blue end B
 Pin 2: Remaining ends:
 (Green end B, Blue end A)
-```
 
 # Parts List
 
