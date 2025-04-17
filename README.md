@@ -1,7 +1,13 @@
 # simple_dcr
 Simple Direct Conversion Receiver for 40m (7 MHz) Band
 
+# Ordering
+
+To order a PCB, [Click here for the PCB Gerber Zip File](https://github.com/shabaz123/simple_dcr/blob/main/gerber-export-dcr-pcbver-rev1_0.zip) and then upload it to any PCB manufacturer. The board is 2-layer, 160 x 100 mm in size.
+
 <img width="100%" align="left" src="dcr-render-angle.jpg">
+
+The parts list is in a table further below.
 
 
 # Circuit Diagram
