@@ -25,6 +25,10 @@ The parts list is in a table further below.
 
 <img width="100%" align="left" src="board-layout-diag-rev1_0.png">
 
+## Board Underside
+
+<img width="100%" align="left" src="board-underside-diag.png">
+
 # Toroid Detail
 
 <img width="100%" align="left" src="toroid-diag-rev2.jpg">
