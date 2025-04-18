@@ -23,7 +23,7 @@ The parts list is in a table further below.
 
 # Board Layout
 
-<img width="100%" align="left" src="board-layout-rev1_0.png">
+<img width="100%" align="left" src="board-layout-diag-rev1_0.png">
 
 # Toroid Detail
 
